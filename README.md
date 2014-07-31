@@ -3,7 +3,9 @@ Speakability
 
 [Website] (http://speakability.andrewraynes.com) | [GitHub] (http://github.com/raynesandrew) | [Twitter] (http://twitter.com/speakability1) | [Download] (https://itunes.apple.com/gb/app/speakability/id784509467?mt=8)
 
-Speakability was an iOS application I developed for my final year project in university. The application was shortlisted at the [Big Chip Awards 2014] (http://www.bigchipawards.com/Shortlist2014) and most recently I sold the application to a leading university education agency in London - [Winning Education] (https://winningeducation.com). I am sad to see the application go, but its gone to a great home and I am now developing more apps including; Gradey and Domainey.
+Speakability was an iOS application I developed for my final year project in university. The application offers augmentative alternative communication and speech therapy soultions to those with speech difficulties. The source code could be used to learn, build something totally different or to simply build on what Speakability already has to offer.
+
+It was shortlisted at the [Big Chip Awards 2014] (http://www.bigchipawards.com/Shortlist2014) and most recently I sold the application to a leading university education agency in London - [Winning Education] (https://winningeducation.com). I am sad to see the application go, but its gone to a great home and I am now developing more apps including; Gradey and Domainey.
 
 You can watch some [videos] (http://project-speakability.andrewraynes.com), [read] (http://speakability.tumblr.com) some stuff on the build or take a look at the [presentation] (https://speakerdeck.com/raynesandrew/speakability-ios-application) I did on Speakability.
 
