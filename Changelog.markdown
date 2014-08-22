@@ -16,6 +16,25 @@ The changelog details the features and graphics implemented within each Speakabi
 * Addition of pitch, speed and volume controllers
 * Fixed some bugs
 
+![](https://raw.github.com/raynesandrew/Speakability/master/Changelog_Screenshots/Icon_2.png)
+
+![](https://raw.github.com/raynesandrew/Speakability/master/Changelog_Screenshots/Type_To_Talk_New.png)
+
+![](https://raw.github.com/raynesandrew/Speakability/master/Changelog_Screenshots/Word_Talk.png)
+
+![](https://raw.github.com/raynesandrew/Speakability/master/Changelog_Screenshots/Type_To_Talk_New.png)
+
+![](https://raw.github.com/raynesandrew/Speakability/master/Changelog_Screenshots/Face_New.PNG)
+
+![](https://raw.github.com/raynesandrew/Speakability/master/Changelog_Screenshots/Picture_Talk_New.png)
+
+![](https://raw.github.com/raynesandrew/Speakability/master/Changelog_Screenshots/Picture_New.PNG)
+
+![](https://raw.github.com/raynesandrew/Speakability/master/Changelog_Screenshots/Settings_New.PNG)
+
+
+
+
 
 # Version 1.0 - *Released January 31st, 2014*
 
