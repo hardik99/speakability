@@ -19,7 +19,7 @@ You can watch some [videos] (http://project-speakability.andrewraynes.com), [rea
 
 ***Change Log;***
 ====================================
-* All Speakability versions developed by me (before the sale) are documented within the [change log] (https://github.com/raynesandrew/Speakability/blob/master/Changelog.markdown). Images coming soon.
+* All Speakability versions developed by me (before the sale) are documented within the [change log] (https://github.com/raynesandrew/Speakability/blob/master/Changelog.markdown).
 
 ***Press***
 ====================================
